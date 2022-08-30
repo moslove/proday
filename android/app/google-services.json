@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235590262598",
+    "project_id": "my-proday",
+    "storage_bucket": "my-proday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235590262598:android:433fcf2ef06ceb67974f47",
+        "android_client_info": {
+          "package_name": "com.example.proday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235590262598-g7fr2dhi2tkij2i3ldclamnk2cmesqlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqDWx5sKJVG07RJI5X3J4omrTNleBUp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235590262598-g7fr2dhi2tkij2i3ldclamnk2cmesqlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
